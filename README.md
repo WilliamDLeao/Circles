@@ -6,10 +6,8 @@ Circles é o trabalho final para a disciplina de Tópicos Especiais em Jogos Edu
 ## Overview
 
 [<img src="imgs/poster.png" width="200" alt="Tela 1">](imgs/poster.png)
-[<img src="imgs/biblioteca.png" width="200" alt="Tela 2">](imgs/biblioteca.png)
 [<img src="imgs/floating.png" width="200" alt="Tela 1">](imgs/floating.png)
 [<img src="imgs/genpuzzle.png" width="200" alt="Tela 1">](imgs/genpuzzle.png)
-[<img src="imgs/mina.png" width="200" alt="Tela 3">](imgs/mina.png)
 [<img src="imgs/painting.png" width="200" alt="Tela 2">](imgs/painting.png)
 [<img src="imgs/quarto.png" width="200" alt="Tela 1">](imgs/quarto.png)
 [<img src="imgs/quarto2.png" width="200" alt="Tela 3">](imgs/quarto2.png)
